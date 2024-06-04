@@ -1,0 +1,26 @@
+.single-container{
+    margin-top: 5%;
+}
+body{
+    background-color: aqua;
+}
+
+.cb{
+    box-shadow: 12px 12px 5px 1px rgba(62, 66, 70, 0.169);
+}
+.myform{
+    max-width: 300px;
+    margin:auto;
+}
+.card{
+    max-width: 400px;
+    margin: auto;
+}
+.btn{
+    width: 100%;
+    border: 2px solid #000
+}
+.form-control{
+   
+    border: 2px solid #000
+}
